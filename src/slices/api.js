@@ -1,4 +1,4 @@
-export const url = "http://localhost:5000/api";
+export const url = "http://https://backend-scanneame-production.up.railway.app/api";
 
 export const setHeaders = () => {
     const headers = {
